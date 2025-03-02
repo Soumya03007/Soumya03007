@@ -1,4 +1,6 @@
 # Soumyadeep-Paul
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya03007&label=Profile%20views&color=0e75b6&style=flat" alt="soumya03007" /> </p>
+
 
 # 💫 About Me:
 I am a passionate IT engineer from India
